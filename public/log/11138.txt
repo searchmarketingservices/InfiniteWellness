@@ -1,0 +1,1 @@
+Pos No.3264 Products:{[medicine_id, qty],[842,1],[433,5],[817,1],}

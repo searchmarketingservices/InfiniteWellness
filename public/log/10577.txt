@@ -1,0 +1,1 @@
+GRN No. 6472 Products:{[produc_id, qty],[2590,56],}

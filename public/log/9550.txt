@@ -1,0 +1,1 @@
+Pos No.2492 Products:{[medicine_id, qty],[570,1],}

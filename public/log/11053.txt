@@ -1,0 +1,1 @@
+Pos Return No. 74 Products:{[medicine_id, qty],[1124,0],[313,0],[806,20],[1208,0],[269,0],}

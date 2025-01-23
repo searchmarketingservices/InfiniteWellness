@@ -1,0 +1,1 @@
+Pos No.3312 Products:{[medicine_id, qty],[1314,1],[382,1],[1316,1],}

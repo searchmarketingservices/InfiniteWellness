@@ -1,0 +1,1 @@
+GRN No. 6470 Products:{[produc_id, qty],[2588,5],[2589,150],}

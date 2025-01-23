@@ -1,0 +1,1 @@
+Pos No.2805 Products:{[medicine_id, qty],[1039,30],[1253,1],}

@@ -1,0 +1,1 @@
+Pos No.2504 Products:{[medicine_id, qty],[1117,1],[1059,1],[1276,5],}

@@ -1,0 +1,1 @@
+Pos No.2846 Products:{[medicine_id, qty],[999,10],[1093,10],}

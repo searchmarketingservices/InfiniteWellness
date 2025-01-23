@@ -1,0 +1,1 @@
+Pos No.3019 Products:{[medicine_id, qty],[1023,3],}

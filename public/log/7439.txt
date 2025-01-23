@@ -1,0 +1,1 @@
+Requistion No. 95390 Products:{[produc_id, qty],[2502,56],[2520,150],}

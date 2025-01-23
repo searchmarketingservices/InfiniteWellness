@@ -1,0 +1,1 @@
+Pos No.3161 Products:{[medicine_id, qty],[1002,1],[810,1],[704,1],}

@@ -1,0 +1,1 @@
+Pos No.3223 Products:{[medicine_id, qty],[626,1],}

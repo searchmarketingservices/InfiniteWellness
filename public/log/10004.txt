@@ -1,0 +1,1 @@
+Pos No.2715 Products:{[medicine_id, qty],[504,10],}
